@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.head{
+    background-color: blueviolet;
+}
+.head h1{
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+h3,h4{
+    color: blueviolet;
+    line-height: 2;
+    text-align: center;
+}
+.foot{
+    padding-bottom: 10px;
+    background-color: blueviolet;
+}
+.foot h3 a,.foot h3{
+    padding-top: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.foot1{
+    color: #fff;
+    margin-bottom: 150px;
+}
