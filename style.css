@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding: 0;
+    position:relative;
 }
 .head{
     background-color: blueviolet;
@@ -16,8 +17,10 @@ h3,h4{
     text-align: center;
 }
 .foot{
-    padding-bottom: 10px;
+    position:absolute;
     background-color: blueviolet;
+    width:100%;
+    top:93vh;
 }
 .foot h3 a,.foot h3{
     padding-top: 10px;
